@@ -3,7 +3,6 @@ Curtis Hiscock
 ID:2146-7806
 8/27/08
 CEN3031-1
-
 A server that displays listings from a JSON file.
 */
 
